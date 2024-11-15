@@ -1,7 +1,8 @@
 ### Hi there 👋
 Experience: The ex-president of Fju tennis club、English cram school teaching assistant、A couch potato.
 
-- 🔭 I’m currently working on developing Nurse scheduling system and Second-hand book trading website.
+- 🌟 Successfully developed a teaching scheduling system with a fully functional website.
+- 🔭 I’m currently working on developing Nurse scheduling system and Research assistant on a health insurance database analysis project.
 - 🌱 I’m currently learning statistics.   
 - 🤔 I'm as poor as a church mouse.
 -  I'm quite willing to do any paid work. If you need a hand, just feel free to contact me in anytime.
